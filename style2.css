@@ -5,6 +5,10 @@ body {
     padding: 50px;
     padding-top: 10px;
 }
+.navbar {
+     padding:0px;
+}
+    
 .fashion .card {
     justify-content: center;
     align-items: center;
