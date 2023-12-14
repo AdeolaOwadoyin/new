@@ -5,6 +5,10 @@
      padding: 0px;
     padding-left: 0px;
     margin: 0px;
+    display: block;
+}
+div {
+    display: block
 }
     
 .fashion .card {
