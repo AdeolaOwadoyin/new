@@ -23,7 +23,7 @@ else if (randomNumber2 > randomNumber1) {
     document.querySelector ("h1").innerHTML = "Player 2 Wins!";
 } 
 else {
-    document.querySelectorAll ("h1").innerHTML = "Draw!";
+    document.querySelector ("h1").innerHTML = "Draw!";
 }
 console.log("Player 1:", randomNumber1);
 console.log("Player 2:", randomNumber2);
